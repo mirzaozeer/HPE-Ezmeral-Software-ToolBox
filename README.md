@@ -2,6 +2,9 @@
 
 This project is a Flask web application for the HPE Ezmeral Data Fabric ToolBox. The application supports various functionalities such as FQDN setup, cleanup operations, and log collection.
 
+![Ekran görüntüsü 2023-11-22 150117](https://github.com/mirzaozeer/HPE-Ezmeral-Software-ToolBox/assets/88277713/de83b784-c53b-44e0-ae38-1f7ae4bc1cea)
+
+
 ## Getting Started
 
 This section describes the steps required to run the project on your local machine.
